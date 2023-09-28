@@ -1,0 +1,33 @@
+.container{
+    width: 700px;
+}
+
+#titulo{
+    margin-top: 40px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+    border: 1px solid rgb(139, 139, 139);
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+}
+
+#conteudo{
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid rgb(139, 139, 139);
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+}
